@@ -1,10 +1,10 @@
 .question-tracker,
 .results-header {
-color: #ff9800;
-float: right;
-font-size: 0.9rem;
-font-style: italic;
-padding: 1rem;
+  color: #ff9800;
+  float: right;
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 1rem;
 }
 
 .quiz {
@@ -38,7 +38,7 @@ padding: 1rem;
   transition:all 0.5s ease;
 }
 
-.answers li: hover {
+.answers li:hover {
   background: #222;
   color: #ba68c8;
 }
